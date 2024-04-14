@@ -43,6 +43,7 @@ The dataset will be compiled by scraping articles from the following reputable A
 - **Fatabyyano**
 - **Misbar**
 - **Verify-Sy**
+- **Matsd24**
 
 These websites are known for their credibility and provide a diverse range of news articles across various topics.
 
@@ -50,9 +51,10 @@ These websites are known for their credibility and provide a diverse range of ne
 
 To use the web scrapers in this project, follow these steps:
 
-1. Clone [this repository](https://github.com/Nahla-yasmine/Arabic-News-Scraper) to your local machine using `git clone`.
-2. Navigate to the folder of the desired web scraper.
-3. Run the Python script corresponding to the web scraper you want to use.
+1. Click on the "Fork" button in the upper-right corner of [this repository](https://github.com/Nahla-yasmine/Arabic-News-Scraper). This will create a copy of the repository under your GitHub account, or you can use the `gh repo fork Nahla-yasmine/Arabic-News-Scraper`.
+2. Clone it to your local machine using `git clone https://github.com/your-username/Arabic-News-Scraper.git`.
+3. Navigate to the folder of the desired web scraper.
+4. Run the Python script corresponding to the web scraper you want to use.
 
 ## Usage
 
