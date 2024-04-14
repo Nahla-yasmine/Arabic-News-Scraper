@@ -23,7 +23,7 @@ The primary objective of this project is to construct a comprehensive dataset fo
 
 ## Task
 
-- **Data Collection**: Students will scrape articles from trustworthy Arabic fact-checking websites, ensuring variety in topics and sources.
+- **Data Collection**: Scraping articles from trustworthy Arabic fact-checking websites, ensuring variety in topics and sources.
   
 - **Annotation**: Each article will be classified as fake or real and sorted by topic.
 
