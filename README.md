@@ -1,4 +1,4 @@
-# Arabic Fake News Detection Dataset
+# Arabic News Websites Scrapers - For Arabic Fake News Detection Dataset
 
 This project aims to construct a robust dataset for detecting fake news in Arabic. In addition to distinguishing articles as fake or real, students will categorize them by topic. The dataset will be compiled from reputable fact-checking websites, ensuring an equitable mix of fake and authentic stories across diverse subjects such as politics, religion, health, and more.
 
