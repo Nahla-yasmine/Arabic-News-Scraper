@@ -67,13 +67,17 @@ Each web scraper in this project is designed to extract news articles from a spe
 
 ## Data Saved in CSV Files
 
-The data extracted by each web scraper is saved in CSV (Comma-Separated Values) files. Each row in the CSV file represents a single news article and contains the following information:
+The data extracted by each web scraper is saved in CSV (Comma-Separated Values) files. 
+These files were merged using the `DATA_MERGING_TOOL.IPYNB` allowing the addition of the missing information and handling the differences in the data structures .
+Each row in the CSV file represents a single news article and contains the following information:
 
 - **Title**: The title of the news article.
 - **Label**: The label or category of the news article (fake or real).
 - **Category Name**: The category or section of the news website where the article is published.
 - **Article Content**: The full text content of the news article.
 - **Article Date**: The date when the news article was published.
+- **Article Correction**: The correction of the fake news statement if availble .
 
-The CSV files provide structured data that can be easily imported into data analysis tools or databases for further processing and analysis.
+The CSV file provide structured data that can be easily imported into data analysis tools or databases for further processing and analysis.
+can be found under the name of `ARABIC-NEWS-CLASSIFICATION-MERGED.zip` (The file is Zipped due to big upload size).
 
